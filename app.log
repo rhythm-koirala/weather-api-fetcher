@@ -1,0 +1,270 @@
+ 2026-09-06 13:36:40,985 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 13:36:40,985 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 13:36:44,826 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 13:36:44,826 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 13:40:06,377 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 13:40:06,377 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 13:40:08,483 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 13:40:08,483 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 13:49:00,347 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 13:49:00,347 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 13:49:06,267 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 13:49:06,267 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 13:57:07,055 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 13:57:07,055 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 13:57:08,343 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 13:57:08,343 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 13:57:28,001 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 13:57:28,001 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 13:57:31,684 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 13:57:31,684 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 14:04:27,429 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 14:04:27,429 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 14:04:28,548 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 14:04:28,548 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 14:25:00,040 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 14:25:00,040 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 14:25:01,291 || ERROR || API Failure!!! || URL = https://api.open-meteo.com/v1/forecast? || Error = 503 Server Error: Service Unavailable for url: https://api.open-meteo.com/v1/forecast?latitude=27.0&longitude=87.0&current=temperature_2m%2Cis_day%2Cwind_speed_10m%2Cwind_direction_10m%2Crain || fetcher.py || 24
+ 2026-09-06 14:25:01,291 || ERROR || API Failure!!! || URL = https://api.open-meteo.com/v1/forecast? || Error = 503 Server Error: Service Unavailable for url: https://api.open-meteo.com/v1/forecast?latitude=27.0&longitude=87.0&current=temperature_2m%2Cis_day%2Cwind_speed_10m%2Cwind_direction_10m%2Crain || fetcher.py || 24
+ 2026-09-06 14:25:01,291 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 14:25:01,291 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 14:25:02,654 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 14:25:02,654 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 14:25:45,824 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 14:25:45,824 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 14:25:47,038 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 14:25:47,038 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 14:27:24,361 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 14:27:24,361 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 14:27:25,436 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 14:27:25,436 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 14:32:19,055 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 14:32:19,055 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 14:32:20,220 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 14:32:20,220 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 14:46:20,744 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 14:46:20,744 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 14:46:22,362 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 14:46:22,362 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 14:48:14,667 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 14:48:14,667 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 14:48:17,837 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 14:48:17,837 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 14:56:07,728 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 14:56:07,728 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 14:56:13,427 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 14:56:13,427 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 14:59:14,760 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 14:59:14,760 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 14:59:15,579 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 14:59:15,579 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 15:01:42,166 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 15:01:42,166 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 15:01:43,095 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 15:01:43,095 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 15:08:26,133 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 15:08:26,133 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-09-06 15:08:26,874 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-09-06 15:08:26,874 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-10-09 17:37:48,693 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 17:37:48,693 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 17:37:49,539 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-10-09 17:37:49,539 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-10-09 17:53:02,397 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 17:53:02,397 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 17:53:02,397 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 17:53:04,073 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 17:53:04,073 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 17:53:04,073 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 17:53:04,073 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 17:53:04,073 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 17:53:04,073 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 17:54:17,704 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 17:54:17,704 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 17:54:17,704 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 17:54:17,704 || INFO || uttav || fetcher.py || 18
+ 2026-10-09 17:54:17,704 || INFO || uttav || fetcher.py || 18
+ 2026-10-09 17:54:17,704 || INFO || uttav || fetcher.py || 18
+ 2026-10-09 17:54:19,266 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 17:54:19,266 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 17:54:19,266 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 17:54:19,267 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 17:54:19,267 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 17:54:19,267 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 17:55:56,935 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 17:55:56,935 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 17:55:56,935 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 17:55:56,935 || INFO || uttav || fetcher.py || 18
+ 2026-10-09 17:55:56,935 || INFO || uttav || fetcher.py || 18
+ 2026-10-09 17:55:56,935 || INFO || uttav || fetcher.py || 18
+ 2026-10-09 17:55:58,877 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 17:55:58,877 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 17:55:58,877 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 17:55:58,877 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 17:55:58,877 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 17:55:58,877 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 17:55:58,877 || INFO || Writing data on weather_data.csv... || csv_writer.py || 11
+ 2026-10-09 17:55:58,877 || INFO || Writing data on weather_data.csv... || csv_writer.py || 11
+ 2026-10-09 17:55:58,877 || INFO || Writing data on weather_data.csv... || csv_writer.py || 11
+ 2026-10-09 17:57:46,366 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 17:57:46,366 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 17:57:46,366 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 17:57:46,366 || INFO || uttav || fetcher.py || 18
+ 2026-10-09 17:57:46,366 || INFO || uttav || fetcher.py || 18
+ 2026-10-09 17:57:46,366 || INFO || uttav || fetcher.py || 18
+ 2026-10-09 17:57:47,708 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 17:57:47,708 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 17:57:47,708 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 17:57:47,708 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 17:57:47,708 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 17:57:47,708 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 17:57:47,708 || INFO || Writing data on weather_data.csv... || csv_writer.py || 11
+ 2026-10-09 17:57:47,708 || INFO || Writing data on weather_data.csv... || csv_writer.py || 11
+ 2026-10-09 17:57:47,708 || INFO || Writing data on weather_data.csv... || csv_writer.py || 11
+ 2026-10-09 17:57:47,708 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 14
+ 2026-10-09 17:57:47,708 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 14
+ 2026-10-09 17:57:47,708 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 14
+ 2026-10-09 17:59:17,638 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 17:59:17,638 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 17:59:17,638 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 17:59:17,639 || INFO || uttav || fetcher.py || 18
+ 2026-10-09 17:59:17,639 || INFO || uttav || fetcher.py || 18
+ 2026-10-09 17:59:17,639 || INFO || uttav || fetcher.py || 18
+ 2026-10-09 17:59:18,604 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 17:59:18,604 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 17:59:18,604 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 17:59:18,604 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 17:59:18,604 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 17:59:18,604 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 17:59:18,605 || INFO || Writing data on weather_data.csv... || csv_writer.py || 11
+ 2026-10-09 17:59:18,605 || INFO || Writing data on weather_data.csv... || csv_writer.py || 11
+ 2026-10-09 17:59:18,605 || INFO || Writing data on weather_data.csv... || csv_writer.py || 11
+ 2026-10-09 17:59:18,605 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 14
+ 2026-10-09 17:59:18,605 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 14
+ 2026-10-09 17:59:18,605 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 14
+ 2026-10-09 17:59:38,364 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 17:59:38,364 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 17:59:38,364 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 17:59:38,365 || INFO || uttav || fetcher.py || 18
+ 2026-10-09 17:59:38,365 || INFO || uttav || fetcher.py || 18
+ 2026-10-09 17:59:38,365 || INFO || uttav || fetcher.py || 18
+ 2026-10-09 17:59:39,397 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 17:59:39,397 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 17:59:39,397 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 17:59:39,398 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 17:59:39,398 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 17:59:39,398 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 17:59:39,398 || INFO || Writing data on weather_data.csv... || csv_writer.py || 11
+ 2026-10-09 17:59:39,398 || INFO || Writing data on weather_data.csv... || csv_writer.py || 11
+ 2026-10-09 17:59:39,398 || INFO || Writing data on weather_data.csv... || csv_writer.py || 11
+ 2026-10-09 17:59:39,398 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 14
+ 2026-10-09 17:59:39,398 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 14
+ 2026-10-09 17:59:39,398 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 14
+ 2026-10-09 18:09:06,678 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 18:09:06,678 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 18:09:06,678 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 18:09:06,678 || INFO || uttav || fetcher.py || 18
+ 2026-10-09 18:09:06,678 || INFO || uttav || fetcher.py || 18
+ 2026-10-09 18:09:06,678 || INFO || uttav || fetcher.py || 18
+ 2026-10-09 18:09:07,633 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 18:09:07,633 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 18:09:07,633 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 18:09:07,634 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 18:09:07,634 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 18:09:07,634 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 18:09:07,634 || INFO || Writing data on weather_data.csv... || csv_writer.py || 14
+ 2026-10-09 18:09:07,634 || INFO || Writing data on weather_data.csv... || csv_writer.py || 14
+ 2026-10-09 18:09:07,634 || INFO || Writing data on weather_data.csv... || csv_writer.py || 14
+ 2026-10-09 18:09:07,634 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 16
+ 2026-10-09 18:09:07,634 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 16
+ 2026-10-09 18:09:07,634 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 16
+ 2026-10-09 18:09:30,619 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 18:09:30,619 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 18:09:30,619 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 18:09:30,620 || INFO || uttav || fetcher.py || 18
+ 2026-10-09 18:09:30,620 || INFO || uttav || fetcher.py || 18
+ 2026-10-09 18:09:30,620 || INFO || uttav || fetcher.py || 18
+ 2026-10-09 18:09:31,576 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 18:09:31,576 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 18:09:31,576 || INFO || Data fetched suscessfully! || fetcher.py || 21
+ 2026-10-09 18:09:31,577 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 18:09:31,577 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 18:09:31,577 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 18:09:31,577 || INFO || Writing header on weather_data.csv... || csv_writer.py || 12
+ 2026-10-09 18:09:31,577 || INFO || Writing header on weather_data.csv... || csv_writer.py || 12
+ 2026-10-09 18:09:31,577 || INFO || Writing header on weather_data.csv... || csv_writer.py || 12
+ 2026-10-09 18:09:31,577 || INFO || Writing data on weather_data.csv... || csv_writer.py || 14
+ 2026-10-09 18:09:31,577 || INFO || Writing data on weather_data.csv... || csv_writer.py || 14
+ 2026-10-09 18:09:31,577 || INFO || Writing data on weather_data.csv... || csv_writer.py || 14
+ 2026-10-09 18:09:31,577 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 16
+ 2026-10-09 18:09:31,577 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 16
+ 2026-10-09 18:09:31,577 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 16
+ 2026-10-09 18:44:02,721 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 18:44:02,721 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 18:44:02,721 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-09 18:44:03,569 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-10-09 18:44:03,569 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-10-09 18:44:03,569 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-10-09 18:44:03,570 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 18:44:03,570 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 18:44:03,570 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-09 18:44:03,570 || INFO || Writing data on weather_data.csv... || csv_writer.py || 14
+ 2026-10-09 18:44:03,570 || INFO || Writing data on weather_data.csv... || csv_writer.py || 14
+ 2026-10-09 18:44:03,570 || INFO || Writing data on weather_data.csv... || csv_writer.py || 14
+ 2026-10-09 18:44:03,570 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 16
+ 2026-10-09 18:44:03,570 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 16
+ 2026-10-09 18:44:03,570 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 16
+ 2026-10-10 15:26:58,031 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-10 15:26:58,031 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-10 15:26:58,031 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-10 15:26:58,958 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-10-10 15:26:58,958 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-10-10 15:26:58,958 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-10-10 15:26:58,958 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-10 15:26:58,958 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-10 15:26:58,958 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-10 15:26:58,959 || INFO || Writing data on weather_data.csv... || csv_writer.py || 14
+ 2026-10-10 15:26:58,959 || INFO || Writing data on weather_data.csv... || csv_writer.py || 14
+ 2026-10-10 15:26:58,959 || INFO || Writing data on weather_data.csv... || csv_writer.py || 14
+ 2026-10-10 15:26:58,959 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 16
+ 2026-10-10 15:26:58,959 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 16
+ 2026-10-10 15:26:58,959 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 16
+ 2026-10-10 15:44:24,778 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-10 15:44:25,897 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-10-10 15:44:25,897 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-10 15:44:25,897 || INFO || Writing data on weather_data.csv... || csv_writer.py || 14
+ 2026-10-10 15:44:25,897 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 16
+ 2026-10-10 15:51:09,669 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-10 15:51:10,833 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-10-10 15:51:10,833 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-10 15:51:10,833 || INFO || Writing header on weather_data.csv... || csv_writer.py || 12
+ 2026-10-10 15:51:10,834 || INFO || Writing data on weather_data.csv... || csv_writer.py || 14
+ 2026-10-10 15:51:10,834 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 16
+ 2026-10-10 15:52:48,291 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-10 15:52:49,535 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-10-10 15:52:49,536 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-10 15:52:49,536 || INFO || Writing data on weather_data.csv... || csv_writer.py || 14
+ 2026-10-10 15:52:49,536 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 16
+ 2026-10-10 15:53:15,462 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-10 15:53:16,731 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-10-10 15:53:16,731 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-10 15:53:16,731 || INFO || Writing data on weather_data.csv... || csv_writer.py || 14
+ 2026-10-10 15:53:16,731 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 16
+ 2026-10-10 15:54:25,659 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-10 15:54:26,773 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-10-10 15:54:26,774 || INFO || {'time': '2026-10-10T10:00', 'interval': 900, 'temperature_2m': -13.2, 'is_day': 0, 'wind_speed_10m': 27.2, 'wind_direction_10m': 312, 'rain': 0.0, 'latitude': 86.92442, 'longitude': 26.25} || main.py || 34
+ 2026-10-10 15:54:26,774 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-10 15:54:26,774 || INFO || Writing data on weather_data.csv... || csv_writer.py || 14
+ 2026-10-10 15:54:26,774 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 16
+ 2026-10-10 15:54:53,526 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-10 15:54:54,840 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-10-10 15:54:54,841 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-10 15:54:54,841 || INFO || Writing data on weather_data.csv... || csv_writer.py || 14
+ 2026-10-10 15:54:54,841 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 16
+ 2026-10-10 15:54:54,841 || INFO || {'time': '2026-10-10T10:00', 'interval': 900, 'temperature_2m': -12.7, 'is_day': 0, 'wind_speed_10m': 26.9, 'wind_direction_10m': 314, 'rain': 0.0, 'latitude': 86.92442, 'longitude': 28.125} || main.py || 35
+ 2026-10-10 15:55:34,813 || INFO || Fetching has just started... || fetcher.py || 17
+ 2026-10-10 15:55:35,920 || INFO || Data fetched suscessfully! || fetcher.py || 20
+ 2026-10-10 15:55:35,921 || INFO || Attempt to save data at weather_data.csv... || csv_writer.py || 7
+ 2026-10-10 15:55:35,921 || INFO || Writing data on weather_data.csv... || csv_writer.py || 14
+ 2026-10-10 15:55:35,921 || INFO || Data sucessfully written at weather_data.csv || csv_writer.py || 16
+ 2026-10-10 15:55:35,921 || INFO || {'time': '2026-10-10T10:00', 'interval': 900, 'temperature_2m': -12.7, 'is_day': 0, 'wind_speed_10m': 26.9, 'wind_direction_10m': 314, 'rain': 0.0, 'latitude': 86.92442, 'longitude': 28.125} || main.py || 36
